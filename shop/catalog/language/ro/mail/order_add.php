@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_subject'] = '%s - Comanda %s';
+$_['text_greeting'] = 'Vă mulțumim pentru interesul acordat produselor %s. Comanda dvs. a fost primită și va fi procesată după confirmarea plății.';
+$_['text_link'] = 'Pentru a vizualiza comanda dvs., faceți clic pe linkul de mai jos:';
+$_['text_order_detail'] = 'Detalii comandă';
+$_['text_instruction'] = 'Instrucțiuni';
+$_['text_order_id'] = 'ID comandă:';
+$_['text_date_added'] = 'Data adăugării:';
+$_['text_order_status'] = 'Starea comenzii:';
+$_['text_payment_method'] = 'Metodă de plată:';
+$_['text_shipping_method'] = 'Metodă de livrare:';
+$_['text_email'] = 'E-mail:';
+$_['text_telephone'] = 'Telefon:';
+$_['text_ip'] = 'Adresă IP:';
+$_['text_payment_address'] = 'Adresă de plată';
+$_['text_shipping_address'] = 'Adresă de livrare';
+$_['text_products'] = 'Produse';
+$_['text_product'] = 'Produs';
+$_['text_model'] = 'Model';
+$_['text_quantity'] = 'Cantitate';
+$_['text_price'] = 'Preț';
+$_['text_order_total'] = 'Totaluri comandă';
+$_['text_total'] = 'Total';
+$_['text_subscription'] = 'Abonament';
+$_['text_subscription_duration'] = '%s la fiecare %d %s(s) pentru %d plată(i)';
+$_['text_subscription_cancel'] = '%s la fiecare %d %s(s) până la anulare';
+$_['text_day'] = 'zi';
+$_['text_week'] = 'săptămână';
+$_['text_semi_month'] = 'jumătate de lună';
+$_['text_month'] = 'lună';
+$_['text_year'] = 'an';
+$_['text_download'] = 'După ce plata a fost confirmată, puteți face clic pe linkul de mai jos pentru a accesa produsele descărcabile:';
+$_['text_comment'] = 'Comentariile pentru comanda dvs. sunt:';
+$_['text_footer'] = 'Vă rugăm să răspundeți la acest e-mail dacă aveți întrebări.';

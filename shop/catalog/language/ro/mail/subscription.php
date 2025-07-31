@@ -1,0 +1,33 @@
+<?php
+// Text
+$_['text_subject'] = '%s - Abonament %s';
+$_['text_greeting'] = 'Vă mulțumim pentru interesul acordat produsului %s. Cererea dumneavoastră de abonament a fost primită și va fi procesată după confirmarea plății.';
+$_['text_link'] = 'Pentru a vizualiza abonamentul, faceți clic pe linkul de mai jos:';
+$_['text_promotion'] = 'Succes: O funcție promoțională a fost adăugată cu succes la acest abonament!';
+$_['text_subscription_duration'] = '%s la fiecare %d %s(s) pentru %d plată(i)';
+$_['text_subscription_cancel'] = '%s la fiecare %d %s(s) până la anulare';
+$_['text_subscription_detail'] = 'Detalii abonament';
+$_['text_instruction'] = 'Instrucțiuni';
+$_['text_orders_id'] = 'ID comandă:';
+$_['text_date_added'] = 'Data adăugării:';
+$_['text_order_status'] = 'Starea comenzii:';
+$_['text_payment_method'] = 'Metodă de plată:';
+$_['text_payment_address'] = 'Adresă de plată';
+$_['text_email'] = 'E-mail:';
+$_['text_telephone'] = 'Telefon:';
+$_['text_ip'] = 'Adresă IP:';
+$_['text_products'] = 'Produse';
+$_['text_product'] = 'Produs';
+$_['text_model'] = 'Model';
+$_['text_quantity'] = 'Cantitate';
+$_['text_price'] = 'Preț';
+$_['text_order_total'] = 'Totaluri comenzi';
+$_['text_total'] = 'Total';
+$_['text_comment'] = 'Comentariile pentru abonamentul dvs. sunt:';
+$_['text_description'] = 'Descriere';
+$_['text_day'] = 'zi';
+$_['text_week'] = 'săptămână';
+$_['text_semi_month'] = 'jumătate de lună';
+$_['text_month'] = 'lună';
+$_['text_year'] = 'an';
+$_['text_footer'] = 'Vă rugăm să răspundeți la acest e-mail dacă aveți întrebări.';
