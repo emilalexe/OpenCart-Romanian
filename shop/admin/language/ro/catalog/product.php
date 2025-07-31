@@ -1,0 +1,137 @@
+<?php
+// Heading
+$_['heading_title'] = 'Produse';
+
+// Text
+$_['text_success'] = 'Succes: Ați modificat produsele!';
+$_['text_variant'] = 'Vă rugăm să rețineți că, deoarece aceasta este o variantă de produs, trebuie să suprascrieți datele <a href=\"%s\" target=\"_blank\" class=\"alert-link\">produsului principal</a>. Altfel, datele vor fi înlocuite cu datele <a href=\"%s\" target=\"_blank\" class=\"alert-link\">produsului principal</a> la salvare.';
+$_['text_list'] = 'Lista de produse';
+$_['text_add'] = 'Adăugați produs';
+$_['text_edit'] = 'Editați produsul';
+$_['text_variant_add'] = 'Adăugați variantă';
+$_['text_model'] = 'Model';
+$_['text_price'] = 'Preț';
+$_['text_stock'] = 'Stoc';
+$_['text_specification'] = 'Specificație';
+$_['text_filter'] = 'Filtru';
+$_['text_default'] = 'Implicit';
+$_['text_keyword'] = 'Nu folosiți spații, înlocuiți spațiile cu - și asigurați-vă că URL-ul SEO este unic la nivel global.';
+$_['text_option_add'] = 'Adăugați opțiunea';
+$_['text_option_value'] = 'Valoarea opțiunii';
+$_['text_select'] = 'Selectare';
+$_['text_radio'] = 'Radio';
+$_['text_checkbox'] = 'Casetă de selectare';
+$_['text_input'] = 'Intrare';
+$_['text_text'] = 'Text';
+$_['text_textarea'] = 'Zona de text';
+$_['text_file'] = 'Fișier';
+$_['text_date'] = 'Data';
+$_['text_datetime'] = 'Data și Timp';
+$_['text_time'] = 'Oră';
+$_['text_fixed'] = 'Sumă fixă';
+$_['text_subtract'] = 'Scădere';
+$_['text_percentage'] = 'Procentaj';
+$_['text_image'] = 'Imagine';
+$_['text_image_additional'] = 'Imagini suplimentare';
+$_['text_reward'] = 'Puncte de cumpărare';
+$_['text_points'] = 'Puncte de recompensă';
+$_['text_from'] = 'De la';
+$_['text_to'] = 'Către';
+$_['text_subscription_trial'] = '%s la fiecare %d %s(s) pentru %d plată(i) apoi ';
+$_['text_subscription_duration'] = '%s la fiecare %d %s(s) pentru %d plată(i)';
+$_['text_subscription_cancel'] = '%s la fiecare %d %s(s) până la anulare';
+$_['text_day'] = 'zi';
+$_['text_week'] = 'week';
+$_['text_semi_month'] = 'jumătate de lună';
+$_['text_month'] = 'lună';
+$_['text_year'] = 'year';
+$_['text_report'] = 'Rapoarte';
+
+// Column
+$_['column_name'] = 'Nume produs';
+$_['column_model'] = 'Model';
+$_['column_image'] = 'Imagine';
+$_['column_price'] = 'Preț';
+$_['column_quantity'] = 'Cantitate';
+$_['column_status'] = 'Stare';
+$_['column_ip'] = 'IP';
+$_['column_store'] = 'Magazin';
+$_['column_country'] = 'Țară';
+$_['column_date_added'] = 'Data adăugării';
+$_['column_action'] = 'Acțiune';
+
+// Entry
+$_['entry_name'] = 'Nume produs';
+$_['entry_description'] = 'Descriere';
+$_['entry_meta_title'] = 'Titl metaetichetă';
+$_['entry_meta_keyword'] = 'Cuvinte cheie metaetichetă';
+$_['entry_meta_description'] = 'Descriere metaetichetă';
+$_['entry_store'] = 'Magazine';
+$_['entry_keyword'] = 'Cuvânt cheie';
+$_['entry_model'] = 'Model';
+$_['entry_product_code'] = 'Coduri de produs';
+$_['entry_location'] = 'Locație';
+$_['entry_shipping'] = 'Necesită livrare';
+$_['entry_manufacturer'] = 'Producător';
+$_['entry_date_available'] = 'Data disponibilă';
+$_['entry_quantity'] = 'Cantitate';
+$_['entry_minimum'] = 'Cantitate minimă';
+$_['entry_stock_status'] = 'Starea de stoc epuizat';
+$_['entry_price'] = 'Preț';
+$_['entry_trial_price'] = 'Preț de probă';
+$_['entry_tax_class'] = 'Clasă de impozitare';
+$_['entry_points'] = 'Puncte';
+$_['entry_subtract'] = 'Scădere stoc';
+$_['entry_weight_class'] = 'Clasă de ponderare';
+$_['entry_weight'] = 'Greutate';
+$_['entry_dimension'] = 'Dimensiuni (L x l x Î)';
+$_['entry_length_class'] = 'Clasă de lungime';
+$_['entry_length'] = 'Lungime';
+$_['entry_width'] = 'Lățime';
+$_['entry_height'] = 'Înălțime';
+$_['entry_option'] = 'Opțiune';
+$_['entry_option_value'] = 'Opțiune Valoare';
+$_['entry_customer_group'] = 'Grup de clienți';
+$_['entry_special'] = 'Special';
+$_['entry_type'] = 'Tip';
+$_['entry_date_start'] = 'Data de început';
+$_['entry_date_end'] = 'Data de sfârșit';
+$_['entry_priority'] = 'Prioritate';
+$_['entry_attribute'] = 'Atribut';
+$_['entry_attribute_group'] = 'Grup de atribute';
+$_['entry_image'] = 'Imagine';
+$_['entry_text'] = 'Text';
+$_['entry_required'] = 'Obligatoriu';
+$_['entry_status'] = 'Stare';
+$_['entry_sort_order'] = 'Ordine de sortare';
+$_['entry_category'] = 'Categorii';
+$_['entry_filter'] = 'Filtre';
+$_['entry_download'] = 'Descărcări';
+$_['entry_related'] = 'Produse similare';
+$_['entry_tag'] = 'Etichete produs';
+$_['entry_reward'] = 'Puncte de recompensă';
+$_['entry_layout'] = 'Modificare aspect';
+$_['entry_subscription'] = 'Plan de abonament';
+
+// Help
+$_['help_tag'] = 'Separate prin virgulă';
+$_['help_minimum'] = 'Forțează o cantitate minimă de comandă';
+$_['help_stock_status'] = 'Starea afișată când un produs nu este în stoc';
+$_['help_manufacturer'] = '(Completare automată)';
+$_['help_category'] = '(Completare automată)';
+$_['help_filter'] = '(Completare automată)';
+$_['help_download'] = '(Completare automată)';
+$_['help_related'] = '(Completare automată)';
+$_['help_option'] = '(Completare automată)';
+$_['help_points'] = 'Numărul de puncte necesare pentru a cumpăra acest articol. Dacă nu dorești ca acest produs să fie achiziționat cu puncte, lasă-l la 0.';
+
+// Error
+$_['error_warning'] = 'Atenție: Verificați cu atenție formularul pentru erori!';
+$_['error_permission'] = 'Atenție: Nu aveți permisiunea de a modifica produse!';
+$_['error_name'] = 'Numele produsului trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
+$_['error_meta_title'] = 'Meta titlul trebuie să fie mai mare de 1 și mai mic de 255 de caractere!';
+$_['error_model'] = 'Modelul produsului trebuie să fie mai mare de 1 și mai mic de 64 de caractere!';
+$_['error_keyword'] = 'Adresa URL SEO trebuie să aibă între 1 și 64 de caractere!';
+$_['error_keyword_exists'] = 'Adresa URL SEO trebuie să fie unică!';
+$_['error_keyword_character'] = 'Cuvântul cheie poate utiliza doar caracterele a-z, 0-9, - și _!';
+$_['error_required'] = '%s necesar!';
