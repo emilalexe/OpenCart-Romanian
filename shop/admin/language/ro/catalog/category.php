@@ -20,9 +20,9 @@ $_['column_action'] = 'Acțiune';
 // Entry
 $_['entry_name'] = 'Nume categorie';
 $_['entry_description'] = 'Descriere';
-$_['entry_meta_title'] = 'Titlu metaetichetă';
-$_['entry_meta_keyword'] = 'Cuvinte cheie metaetichetă';
-$_['entry_meta_description'] = 'Descriere metaetichetă';
+$_['entry_meta_title'] = 'Titlu meta etichetă';
+$_['entry_meta_keyword'] = 'Cuvinte cheie meta etichetă';
+$_['entry_meta_description'] = 'Descriere meta etichetă';
 $_['entry_store'] = 'Magazine';
 $_['entry_keyword'] = 'Cuvânt cheie';
 $_['entry_parent'] = 'Părinte';

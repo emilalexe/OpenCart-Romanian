@@ -23,7 +23,7 @@ $_['text_mail_order'] = 'Comenzi';
 $_['text_mail_review'] = 'Recenzii';
 $_['text_general'] = 'General';
 $_['text_site'] = 'Detalii site';
-$_['text_meta'] = 'Metaetichete';
+$_['text_meta'] = 'Meta etichete';
 $_['text_security'] = 'Securitate';
 $_['text_upload'] = 'Încărcări de către clienți';
 $_['text_error'] = 'Gestionarea erorilor';
@@ -55,8 +55,8 @@ $_['text_password_symbol'] = 'Simbol';
 
 // Entry
 $_['entry_meta_title'] = 'Meta Titlu';
-$_['entry_meta_description'] = 'Descrierea metaetichetei';
-$_['entry_meta_keyword'] = 'Cuvinte cheie metaetichete';
+$_['entry_meta_description'] = 'Descrierea meta etichetei';
+$_['entry_meta_keyword'] = 'Cuvinte cheie meta etichete';
 $_['entry_layout'] = 'Aspect implicit';
 $_['entry_theme'] = 'Temă';
 $_['entry_name'] = 'Numele magazinului';

@@ -32,8 +32,8 @@ $_['column_action'] = 'Acțiune';
 // Entry
 $_['entry_url'] = 'URL magazin';
 $_['entry_meta_title'] = 'Meta titlu';
-$_['entry_meta_description'] = 'Descrierea metaetichetei';
-$_['entry_meta_keyword'] = 'Cuvinte cheie metaetichetei';
+$_['entry_meta_description'] = 'Descrierea meta etichetei';
+$_['entry_meta_keyword'] = 'Cuvinte cheie meta etichetei';
 $_['entry_layout'] = 'Aspect implicit';
 $_['entry_theme'] = 'Temă';
 $_['entry_name'] = 'Numele magazinului';
