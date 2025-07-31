@@ -1023,7 +1023,7 @@
             "text_unverified": "Neverificat"
         }
     },
-    "default": {
+    "backend_ro": {
         "default.php": {
             "button_add": "Adăugați nou",
             "button_address_add": "Adăugați Adresă",
